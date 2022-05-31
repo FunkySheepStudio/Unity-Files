@@ -1,0 +1,28 @@
+{
+  "name": "net.funkysheep.unity.files",
+  "displayName": "FunkySheep Unity Files Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework Files Library",
+  "keywords": [
+    "Files",
+    "Unity",
+    "WebGl",
+    "AR",
+    "Android",
+    "IOS"
+  ],
+  "category": "Files",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-Files/blob/main/CHANGELOG.md",
+  "dependencies": {
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}
